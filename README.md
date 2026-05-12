@@ -1,4 +1,4 @@
-![image alt]("C:\Users\BASHEER\OneDrive\Desktop\projects folder\samsung_sales\screenshot-1778583099197.png")
+![image alt](final dashboard.png)
 
 
 Samsung Supply Chain BI Dashboard
