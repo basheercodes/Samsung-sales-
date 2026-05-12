@@ -1,4 +1,4 @@
-![image alt](final dashboard.png)
+![image alt](https://github.com/basheercodes/Samsung-sales-/blob/acd31465fdac46335dc9d110713ad942e4c76cc9/final%20dashboard.png)
 
 
 Samsung Supply Chain BI Dashboard
